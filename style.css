@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+}
+
+.inventory {
+    color : white;
+    background-color:#16174f;
+    text-align: center;
+    opacity: .8;
+    padding: 20px;
+}
